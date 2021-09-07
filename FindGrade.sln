@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindGrade", "FindGrade\FindGrade.csproj", "{4615D3FA-EDE3-48B8-86A0-5516B60E216E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4615D3FA-EDE3-48B8-86A0-5516B60E216E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4615D3FA-EDE3-48B8-86A0-5516B60E216E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4615D3FA-EDE3-48B8-86A0-5516B60E216E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4615D3FA-EDE3-48B8-86A0-5516B60E216E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8039B0-49AA-4FD6-AFAA-0C352E69A7AA}
+	EndGlobalSection
+EndGlobal
